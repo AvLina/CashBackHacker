@@ -1,8 +1,8 @@
 package service;
 
-import org.testng.annotations.Test;
 
-import static org.testng.Assert.*;
+import org.junit.Test;
+import static org.junit.Assert.assertEquals;
 
 public class CashBackHackerTest {
 
